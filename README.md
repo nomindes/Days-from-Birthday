@@ -1,16 +1,9 @@
-# my_first_application
+# Days-from-Birthday
+![Last Commit](https://img.shields.io/github/last-commit/nomindes/Days-from-Birthday)
+![Downloads](https://img.shields.io/github/downloads/nomindes/Days-from-Birthday/total)
+![License](https://img.shields.io/github/license/nomindes/Days-from-Birthday)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+誕生日から何日経過したか計算できるアプリです。Flutter技術書のチュートリアルで作成しました。<br>This is an app that allows you to calculate how many days have passed since your birthday, and was created using a tutorial in the Flutter technical book.
+## スクリーンショット
+<img src="https://github.com/nomindes/Days-from-Birthday/assets/112252298/d669e5b7-ea5b-463b-989a-3a0b4595fae2" width="45%" />
+<img src="https://github.com/nomindes/Days-from-Birthday/assets/112252298/b872cf35-ad39-4327-8180-66d582d7418d" width="45%" />
